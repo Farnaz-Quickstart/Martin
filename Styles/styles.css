@@ -1,0 +1,51 @@
+
+h1{
+    font-family: Tinos;
+ 
+}
+
+.HomeHeading{
+    text-align: center;
+    margin: 5rem;
+    font-size: 65px;
+}
+
+.profile-img{
+    width: 500px;
+    display: block;
+    margin: 5rem auto;
+    border-radius: 25%;}
+
+.myfirst-carousel{
+    width: 500px;
+    display: block;
+    margin: 5rem auto;
+}
+.MyWorkHeading{
+    text-align: center;
+    font-style: initial;
+    color: deeppink;
+}
+
+.Under-pic{
+    text-align: center;
+    font-family: Tinos;
+    font-size: 50px;
+    
+
+}
+
+.RequestApt{
+text-align: center;
+text-decoration: underline;
+}
+
+ul{
+    justify-content: center;
+
+}
+
+
+.container-fluid-footer{
+    text-align: center;
+}
